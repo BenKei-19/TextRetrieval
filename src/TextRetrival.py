@@ -80,6 +80,6 @@ top_k = 10
 # Rank and display results
 for query in queries:
     ranked_results = rank_documents(query, word_dict, inverted_index)
-    print(f'Query: {query}\n')
+    print(f'QUERY: {query}?\n')
     for rank, (score, content, doc_idx) in enumerate(ranked_results[:top_k], start=1):
         print(f'Rank {rank}; Similarity point: {score:.4f}\n{content}\n')
