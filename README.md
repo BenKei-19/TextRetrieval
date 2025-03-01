@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Have you ever wondered how Google's search engines can return related pages even when you don't type the exact content 100% correctly? Here is my basic solution about this topic. With datasets of MS_MARCO.
+Have you ever wondered how Google's search engines can return related pages even when you don't type the exact content correctly? Here is my basic solution about this topic. With datasets of MS_MARCO.
 
 ## Setup
 > pip install datasets 
