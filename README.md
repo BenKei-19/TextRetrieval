@@ -1,4 +1,4 @@
-# [PYTHON] Text Retrieval Basically 
+# [PROJECT] Text Retrieval Basically 
 
 ## Introduction
 
